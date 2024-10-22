@@ -36,6 +36,7 @@ sudo dnf update --refresh
 
 ## Hyprland
 sudo dnf copr enable solopasha/hyprland
+sudo dnf update --refresh
 
 ## Nobara repo
 sudo dnf copr enable gloriouseggroll/nobara-40
